@@ -1,0 +1,2 @@
+Send mail by Node JS Installed this pakage : npm install nodemailer -S 
+token auth : npm i jsonwebtoken
